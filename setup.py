@@ -266,7 +266,7 @@ if 'sdist' in sys.argv:
 
 
 setup(
-    name='zipline-trader',
+    name='zipline',
     url="https://github.com/shlomikushchi/zipline-trader",
     version=versioneer.get_version(),
     cmdclass=LazyBuildExtCommandClass(versioneer.get_cmdclass()),
