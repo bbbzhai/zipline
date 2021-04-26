@@ -21,7 +21,7 @@
 
 zipline-trader
 ==============
-自己修改下
+自己修改下, 试一下看看
 
 Welcome to zipline-trader, the on-premise trading platform built on top of Quantopian's
 `zipline <https://github.com/quantopian/zipline>`_.
